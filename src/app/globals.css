@@ -220,12 +220,6 @@ body {
   position: absolute;
   inset: 0;
   z-index: 3;
-  background: radial-gradient(
-    circle at center,
-    rgba(var(--color-black-rgb), 0.1) 0%,
-    rgba(var(--color-black-rgb), 0.5) 85%,
-    rgba(var(--color-black-rgb), 0.85) 100%
-  );
   pointer-events: none;
 }
 
