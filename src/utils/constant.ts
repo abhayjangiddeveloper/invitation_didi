@@ -2,7 +2,7 @@ export const CARD_INFO = {
   groomName: "Mohammad Shahid Khan",
   groomFather: "Ikbal Khan",
   groomMother: "Farjana Begum",
-  brideName: "Tofiza Quazi",
+  brideName: "Khushbu Banu",
   brideFather: "Ikramuddin Quazi",
   brideMother: "Shabana Begum",
   nikahDate: "2026-10-11",
