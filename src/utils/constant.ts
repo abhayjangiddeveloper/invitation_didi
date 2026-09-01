@@ -1,5 +1,5 @@
 export const CARD_INFO = {
-  groomName: "Mohammad Shahid Khan",
+  groomName: "Moh. Shahid Khan",
   groomFather: "Ikbal Khan",
   groomMother: "Farjana Begum",
   brideName: "Khushbu Banu",
